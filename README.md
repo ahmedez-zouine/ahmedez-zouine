@@ -1,7 +1,8 @@
 ### Hi there 👋
+<spam align="center">
 
-</p>
 [![aez-zoui's 42 projects](https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark)](https://42term.vercel.app)
+</spam>
 <p align="center">  
 <!--<img  width="500" height="500" src ="tom.png">-->
 <img  src ="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif">
