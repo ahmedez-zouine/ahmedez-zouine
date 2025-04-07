@@ -1,10 +1,8 @@
 ### Hi there 👋
-<spam align="center">
-
-[![aez-zoui's 42 projects](https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark)](https://42term.vercel.app)
-</spam>
 <p align="center">  
 <!--<img  width="500" height="500" src ="tom.png">-->
+
+[![aez-zoui's 42 projects](https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark)](https://42term.vercel.app)
 <img  src ="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif">
 <!--  <img src ="https://cleverlytics.com/wp-content/uploads/2024/06/DesignRetro-ezgif.com-optimize.gif">  -->
 <!--  <img src ="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419"> -->
