@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![aez-zoui's 42 projects](https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark)](https://42term.vercel.app)
+<!-- [![aez-zoui's 42 projects](https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark)](https://42term.vercel.app)-->
 </p>
 <p align="center">  
 <!--<img  width="500" height="500" src ="tom.png">-->
