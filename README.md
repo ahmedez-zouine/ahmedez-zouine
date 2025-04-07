@@ -6,6 +6,11 @@
   <a href="https://42term.vercel.app">
     <img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects">
   </a>
+┌──┤ 42 PROJECTS ├─────────────▰▰▰
+│
+├─◈ <img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects">
+│
+└───────────────────────────────▰▰▰
   <!--  
   <img src="https://cleverlytics.com/wp-content/uploads/2024/06/DesignRetro-ezgif.com-optimize.gif">
   <img src="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419">
