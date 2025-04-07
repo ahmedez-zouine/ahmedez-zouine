@@ -2,8 +2,7 @@
 <p align="center">  
   <!--<img  width="500" height="500" src ="tom.png">-->
   <img src="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif"><br>
-
-<img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects">
+<!-- <img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects"> -->
   <!--  
   <img src="https://cleverlytics.com/wp-content/uploads/2024/06/DesignRetro-ezgif.com-optimize.gif">
   <img src="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419">
@@ -41,7 +40,12 @@
 ├─◈ Discord: goodman
 │
 └───────────────────────────────▰▰▰
-
+┌──┤ 42 PROJECTS ├─────────────▰▰▰
+<p align="center">  
+	<img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects">
+</p>
+└───────────────────────────────▰▰▰
+<!-- 
 ┌──┤ 42 PROJECTS ├─────────────▰▰▰
 │
 ├─◈ <a href="https://github.com/ahmedez-zouine/libft">libft</a>
@@ -54,7 +58,7 @@
 ├─◈ <a href="https://github.com/ahmedez-zouine/longtalk">Longtalk</a>
 │
 └───────────────────────────────▰▰▰
-
+ -->
 
 ┌──┤ ALX PROJECTS ├────────────▰▰▰
 │
