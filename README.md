@@ -1,12 +1,10 @@
 ### Hi there 👋
 
----
-
-![Welcome Message](https://readme-typingsvg.demolab.comfont=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Software+Engineering+Student+🚀;Passionate+about+AI+and+Data+💡)
-
----
-
 <p align="center">  
+<!-- 	--- -->
+
+![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2a98eb&width=435&lines=Welcome+to+my+GitHub!+👋;Software+Engineering+🛫;Passionate+about+AI+and+Dev+Mobile+)
+
   <!--<img  width="500" height="500" src ="tom.png">-->
   <img src="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif"><br>
 <!-- <img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects"> -->
