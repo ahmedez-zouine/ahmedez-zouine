@@ -2,7 +2,7 @@
 
 ---
 
-![Welcome Message](https://readme-typing-svg.demolab.comfont=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Software+Engineering+Student+🚀;Passionate+about+AI+and+Data+💡)
+![Welcome Message](https://readme-typingsvg.demolab.comfont=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Software+Engineering+Student+🚀;Passionate+about+AI+and+Data+💡)
 
 ---
 
