@@ -1,18 +1,21 @@
 ### Hi there 👋
 
-<p align="center">  
-<!-- 	--- -->
-
-![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2a98eb&width=435&lines=Welcome+to+my+GitHub!+👋;Software+Engineering+🛫;Passionate+about+AI+and+Dev+Mobile+)
-
-  <!--<img  width="500" height="500" src ="tom.png">-->
-  <img src="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif"><br>
-<!-- <img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects"> -->
-  <!--  
+<p align="center">
+	
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2a98eb&width=435&lines=Welcome+to+my+GitHub!+👋;Software+Engineering+🛫;Passionate+about+AI+and+Dev+Mobile+" alt="Typing SVG">
+  
+  <!--<img width="500" height="500" src="tom.png">-->
+  
+  <br>
+  <img src="https://ekladata.com/eTaqWGe2fZnfdPjUlNdf_bodOpk/z52.gif" alt="Welcome GIF">
+  
+  <!--
+  <img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects">
   <img src="https://cleverlytics.com/wp-content/uploads/2024/06/DesignRetro-ezgif.com-optimize.gif">
   <img src="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419">
   -->
 </p>
+
 
 <!--
 ## root:~$ whoami
