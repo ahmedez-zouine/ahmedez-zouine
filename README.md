@@ -47,10 +47,6 @@
 └───────────────────────────────▰▰▰
 
 	
-## 42 PROJECTS 
-<p align="center">  
-	<img src="https://42term.vercel.app/api/widget/projects/aez-zoui?theme=dark" alt="aez-zoui's 42 projects">
-</p>
 <!-- 
 ┌──┤ 42 PROJECTS ├─────────────▰▰▰
 │
