@@ -32,7 +32,7 @@
 
 ┌──┤ WHOAMI ├──────────────────▰▰▰
 │
-├─▣ Software Engineer Student
+├─▣ Software Engineer 
 │
 └───────────────────────────────▰▰▰
 
