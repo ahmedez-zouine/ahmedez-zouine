@@ -19,13 +19,13 @@
 >  Software engineer student at [1337](https://1337.ma/en/) \
 >  “Don’t wait for things to happen. Make them happen.” - Roy Bennett -->
 
-<!--
+
 <p align="center">
 <a ><img src="https://badge.mediaplus.ma/black/aez-zoui" alt="aez-zoui's 42 stats" /></a>
 </p>
-├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
--->
+<!-- ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
+├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI. -->
+
 
 
 <pre style="color : "blue"">
@@ -47,7 +47,7 @@
 └───────────────────────────────▰▰▰
 
 	
-<!-- 
+
 ┌──┤ 42 PROJECTS ├─────────────▰▰▰
 │
 ├─◈ <a href="https://github.com/ahmedez-zouine/libft">libft</a>
@@ -60,7 +60,7 @@
 ├─◈ <a href="https://github.com/ahmedez-zouine/longtalk">Longtalk</a>
 │
 └───────────────────────────────▰▰▰
- -->
+
 
 ┌──┤ ALX PROJECTS ├────────────▰▰▰
 │
