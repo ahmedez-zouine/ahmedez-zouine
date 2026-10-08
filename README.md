@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/welcome.gif" alt="Welcome GIF" width="420">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2a98eb&center=true&vCenter=true&width=500&lines=Software+Engineer;Low-Level+%26+42+Network+%26+ALX+Africa+Alumnus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2a98eb&center=true&vCenter=true&width=500&lines=Low-Level+%26+42+Network+%26+ALX+Africa+Alumnus" alt="Typing SVG" />
 </p>
 
 <pre>
