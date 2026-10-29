@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="230" viewBox="0 0 500 230">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&amp;display=swap');
+
+      text {
+        font-family: 'Fira Code', 'FiraCode-Regular', Menlo, Monaco, Consolas, 'Courier New', monospace;
+        font-size: 16px;
+        font-feature-settings: "liga" on, "calt" on;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .b  { fill: #2a98eb; }
+      .g  { fill: #2ecc71; }
+      .cm { fill: #6b7280; }
+
+      .cursor {
+        fill: #2a98eb;
+        animation: blink 0.8s step-end infinite;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+
+    <clipPath id="c0">
+      <rect x="0" y="4" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.027;0.095;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c1">
+      <rect x="0" y="28" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.109;0.161;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="0" y="52" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.173;0.211;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c3">
+      <rect x="0" y="76" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.227;0.304;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c4">
+      <rect x="0" y="100" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.318;0.408;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c5">
+      <rect x="0" y="124" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.418;0.465;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c6">
+      <rect x="0" y="148" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.482;0.495;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c7">
+      <rect x="0" y="172" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.509;0.542;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c8">
+      <rect x="0" y="196" width="0" height="24">
+        <animate attributeName="width" values="0;0;500;500;0;0" keyTimes="0.0;0.555;0.557;0.873;0.927;1.0" dur="11.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Global fade-out wrapper -->
+  <g>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.873;0.927;0.98;1" dur="11.0s" repeatCount="indefinite"/>
+  <g clip-path="url(#c0)">
+    <text xml:space="preserve" x="10" y="20" class="cm">// Think. Code. Simulate.</text>
+  </g>
+  <g clip-path="url(#c1)">
+    <text xml:space="preserve" x="10" y="44" class="b">while (<tspan class="g">curiosity</tspan>) {</text>
+  </g>
+  <g clip-path="url(#c2)">
+    <text xml:space="preserve" x="10" y="68" class="b">    <tspan class="g">explore()</tspan>;</text>
+  </g>
+  <g clip-path="url(#c3)">
+    <text xml:space="preserve" x="10" y="92" class="b">    #pragma omp parallel for</text>
+  </g>
+  <g clip-path="url(#c4)">
+    <text xml:space="preserve" x="10" y="116" class="b">    for (int i = 0; i &lt; N; ++i) {</text>
+  </g>
+  <g clip-path="url(#c5)">
+    <text xml:space="preserve" x="10" y="140" class="b">        <tspan class="g">solve(i)</tspan>;</text>
+  </g>
+  <g clip-path="url(#c6)">
+    <text xml:space="preserve" x="10" y="164" class="b">    }</text>
+  </g>
+  <g clip-path="url(#c7)">
+    <text xml:space="preserve" x="10" y="188" class="b">    <tspan class="g">learn()</tspan>;</text>
+  </g>
+  <g clip-path="url(#c8)">
+    <text xml:space="preserve" x="10" y="212" class="b">}</text>
+  </g>
+
+    <!-- Blinking cursor at closing brace -->
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.559;0.559;0.873;0.927;1" dur="11.0s" repeatCount="indefinite"/>
+      <rect class="cursor" x="22" y="199" width="2" height="16"/>
+    </g>
+  </g>
+</svg>
