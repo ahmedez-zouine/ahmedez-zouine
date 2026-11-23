@@ -11,12 +11,12 @@
   <br>
   <i>High-Performance Architecture-Aware Numerical Solvers in C++17</i>
   <br><br>
-  <a href="https://github.com/archsys-solvers">
+  <!-- <a href="https://github.com/archsys-solvers">
     <img src="https://img.shields.io/badge/Organization-archsys--solvers-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="archsys-solvers" />
-  </a>
-  <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">
+  </a> -->
+  <!-- <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">
     <img src="https://img.shields.io/badge/Collaborate-Request%20Invite-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Request Invite" />
-  </a>
+  </a> -->
 </p>
 
 <pre>
@@ -99,8 +99,8 @@ Developers, systems engineers, and open-source contributors are welcome to join 
 | **2. Request Invitation** | Send your GitHub username to receive an invite | [Send Email](mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator) or [LinkedIn](https://www.linkedin.com/in/ahmed-zouine) |
 | **3. Direct Approval** | I personally review and approve all requests | *Direct approval* |
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">
     <img src="https://img.shields.io/badge/Request%20to%20Join-Instant%20Approval-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Request to Join" />
   </a>
-</p>
+</p> -->
