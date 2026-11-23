@@ -1,12 +1,10 @@
 <p align="center">
-  <!-- <img src="assets/welcome.gif" alt="Welcome GIF" width="420">
-  <br> -->
   <img src="assets/code.svg" alt="Code SVG" width="500" />
 </p>
 
 <p align="center">
   <a href="https://github.com/archsys-solvers">
-    <img src="assets/archsys-logo.svg" alt="archsys-solvers logo" width="85" />
+    <img src="assets/archsys-logo.svg" alt="archsys-solvers logo" width="125" />
   </a>
   <br>
   <b>Founder &amp; Lead Maintainer of <a href="https://github.com/archsys-solvers">archsys-solvers</a></b>
@@ -16,8 +14,8 @@
   <a href="https://github.com/archsys-solvers">
     <img src="https://img.shields.io/badge/Organization-archsys--solvers-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="archsys-solvers" />
   </a>
-  <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20organization">
-    <img src="https://img.shields.io/badge/Join%20Organization-Request%20Invite-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Join Organization" />
+  <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">
+    <img src="https://img.shields.io/badge/Collaborate-Request%20Invite-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Request Invite" />
   </a>
 </p>
 
@@ -35,8 +33,8 @@
 │
 ├─◈ Organization: <a href="https://github.com/archsys-solvers">github.com/archsys-solvers</a>
 ├─◈ Flagship Repo: <a href="https://github.com/archsys-solvers/data-oriented-solver">data-oriented-solver</a>
-├─◈ Join Organization: <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20organization">Request Invite (Click to Email)</a>
-│  (Invitations and membership requests are approved personally)
+├─◈ Collaboration: Open for contributors & systems engineers
+├─◈ Direct Invite: <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">Email Request (Direct Approval)</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -90,12 +88,20 @@
 
 ---
 
-### Join archsys-solvers
+### Collaborate & Join archsys-solvers
 
-I founded **[archsys-solvers](https://github.com/archsys-solvers)** to build open-source, architecture-aware numerical solvers and high-performance computing libraries in C++17.
+I founded **[archsys-solvers](https://github.com/archsys-solvers)** to advance cache-conscious numerical solvers, SIMD vectorization, and data-oriented architecture in C++17.
 
-We actively welcome developers, contributors, and systems enthusiasts to join the organization!
+Developers, systems engineers, and open-source contributors are welcome to join and collaborate!
 
-* **Explore the Organization:** [github.com/archsys-solvers](https://github.com/archsys-solvers)
-* **Direct Link to Join:** Send an email to **[ahmed.ezzouine@um5r.ac.ma](mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20organization)** with your GitHub username or connect via [LinkedIn](https://www.linkedin.com/in/ahmed-zouine).
-* **Invitation Approval:** I personally review and approve all membership and collaborator requests.
+| Step | What to do | Link |
+| :--- | :--- | :--- |
+| **1. Explore Projects** | Browse our architecture-aware solvers and roadmap | [Browse Repositories](https://github.com/archsys-solvers) |
+| **2. Request Invitation** | Send your GitHub username to receive an invite | [Send Email](mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator) or [LinkedIn](https://www.linkedin.com/in/ahmed-zouine) |
+| **3. Direct Approval** | I personally review and approve all requests | *Direct approval by Ahmed* |
+
+<p align="center">
+  <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">
+    <img src="https://img.shields.io/badge/Request%20to%20Join-Instant%20Approval-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Request to Join" />
+  </a>
+</p>
