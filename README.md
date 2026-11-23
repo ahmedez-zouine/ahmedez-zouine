@@ -31,7 +31,6 @@
 
 ┌──┤ ARCHSYS-SOLVERS ├─────────▰▰▰
 │
-├─◈ Organization: <a href="https://github.com/archsys-solvers">github.com/archsys-solvers</a>
 ├─◈ Flagship Repo: <a href="https://github.com/archsys-solvers/data-oriented-solver">data-oriented-solver</a>
 ├─◈ Collaboration: Open for contributors & systems engineers
 ├─◈ Direct Invite: <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">Email Request </a>
@@ -98,7 +97,7 @@ Developers, systems engineers, and open-source contributors are welcome to join 
 | :--- | :--- | :--- |
 | **1. Explore Projects** | Browse our architecture-aware solvers and roadmap | [Browse Repositories](https://github.com/archsys-solvers) |
 | **2. Request Invitation** | Send your GitHub username to receive an invite | [Send Email](mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator) or [LinkedIn](https://www.linkedin.com/in/ahmed-zouine) |
-| **3. Direct Approval** | I personally review and approve all requests | *Direct approval by Ahmed* |
+| **3. Direct Approval** | I personally review and approve all requests | *Direct approval* |
 
 <p align="center">
   <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">
