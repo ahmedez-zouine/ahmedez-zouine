@@ -34,7 +34,7 @@
 ├─◈ Organization: <a href="https://github.com/archsys-solvers">github.com/archsys-solvers</a>
 ├─◈ Flagship Repo: <a href="https://github.com/archsys-solvers/data-oriented-solver">data-oriented-solver</a>
 ├─◈ Collaboration: Open for contributors & systems engineers
-├─◈ Direct Invite: <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">Email Request (Direct Approval)</a>
+├─◈ Direct Invite: <a href="mailto:ahmed.ezzouine@um5r.ac.ma?subject=Join%20archsys-solvers%20as%20Collaborator">Email Request </a>
 │
 └───────────────────────────────▰▰▰
 
