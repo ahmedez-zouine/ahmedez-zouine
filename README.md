@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/code.svg" alt="Code SVG" width="500" />
 </p>
-
 <p align="center">
   <a href="https://github.com/archsys-solvers">
     <img src="assets/archsys-logo.svg" alt="archsys-solvers logo" width="125" />
